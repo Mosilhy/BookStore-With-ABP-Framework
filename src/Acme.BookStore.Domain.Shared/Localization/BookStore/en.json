@@ -1,0 +1,15 @@
+{
+  "culture": "en",
+  "texts": {
+    "Menu:Home": "Home",
+    "Welcome": "Welcome",
+    "Enum:ProductType:undefined": "undefined",
+    "Enum:ProductType:Horror": "Horror2",
+    "Enum:ProductType:Biography": "Biography2",
+    "Enum:ProductType:Adventure": "Adventure2",
+    "Horror": "Horror2",
+    "Biography": "Biography2",
+    "Adventure": "Adventure2",
+    "LongWelcomeMessage": "Welcome to the application. This is a startup project based on the ABP framework. For more information, visit abp.io."
+  }
+}
